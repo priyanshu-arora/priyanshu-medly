@@ -5,9 +5,9 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m a Fourth Year Computer Science And Engineering Student from ABES Engineering College, Ghaziabad
+- 🔭 I have pursued my Engineering from ABES Engineering College, Ghaziabad
 
-- 🔭 Working as an Intern Developer in **[Medly Software Systems](https://medly.com/en-us)**
+- 🔭 Working as a SDE-1 in **[Medly Software Systems](https://medly.com/en-us)**
 
 - 🌱 I’m currently learning **Kotlin and React.**
 
